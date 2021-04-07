@@ -1,5 +1,4 @@
-
 <script>
-// using console.log
-console.log('Hello World');
+// using alert
+alert('Hello World');
 </script>
